@@ -1,1 +1,1 @@
-web: gunicorn sdm.wsgi --log-file -
+web: gunicorn sdm.sdm.wsgi --log-file -
